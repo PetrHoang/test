@@ -6,6 +6,8 @@
   box-sizing: border-box;
   font-family: "Poppins" , sans-serif;
 }
+
+
 .sidebar{
   position: fixed;
   left: 0;
@@ -17,14 +19,6 @@
   float: left;
 
 }
-
-.home-section{
-  /* position: absolute; */
-  height: 100%;
-  width: 85%;
-  float: right;
-}
-
 .sidebar li{
   list-style: none;
   border-bottom: #aaaa 2px solid ;
@@ -45,10 +39,14 @@
 }
 
 
+/* ---------------------------------------- */
 
 .home-section{
   position: relative;
   padding: 0px 5%;
+  height: 100%;
+  width: 85%;
+  float: right;
 }
 .logo{
   display: block;
@@ -89,6 +87,8 @@ display: flex;
   margin-top: 10px;
   padding-right: 25px;
 }
+
+/* ---------------------------------------- */
 
 .footer{
   position:relative;
