@@ -54,6 +54,8 @@
   margin-right: auto;
   margin-bottom: 20px;
   margin-top: 20px;
+  position: relative;
+
 }
 .content-1{
   position: relative;
@@ -80,6 +82,7 @@ display: flex;
   width: 128px;
   height: 128px;
   margin-top: 10px;
+  position: relative;
 
 }
 .content-text{
